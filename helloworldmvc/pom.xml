@@ -21,5 +21,12 @@
       <version>4.12</version>
       <scope>test</scope>
     </dependency>
+    
   </dependencies>
+  <modules>
+  	<module>controller</module>
+  	<module>model</module>
+  	<module>view</module>
+  	<module>contract</module>
+  </modules>
 </project>
